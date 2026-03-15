@@ -1,0 +1,16 @@
+{
+ "apps":[
+
+{"name":"Calculator","price":"$1","url":"apps/calculator/index.html"},
+{"name":"Notes","price":"$1","url":"apps/notes/index.html"},
+{"name":"Timer","price":"$1","url":"apps/timer/index.html"},
+{"name":"TodoList","price":"$1","url":"apps/todolist/index.html"},
+{"name":"PasswordGen","price":"$1","url":"apps/password/index.html"},
+{"name":"UnitConvert","price":"$1","url":"apps/convert/index.html"},
+{"name":"Stopwatch","price":"$1","url":"apps/stopwatch/index.html"},
+{"name":"ColorPicker","price":"$1","url":"apps/color/index.html"},
+{"name":"RandomQuote","price":"$1","url":"apps/quote/index.html"},
+{"name":"MarkdownEditor","price":"$1","url":"apps/markdown/index.html"}
+
+]
+}
